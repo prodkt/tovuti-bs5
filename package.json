@@ -1,0 +1,22 @@
+{
+  "name": "@example/basics",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/image": "^0.11.6",
+    "@astrojs/prism": "^1.0.2",
+    "@storyblok/astro": "^1.2.0",
+    "astro": "^1.2.1",
+    "sharp": "^0.31.2",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@unocss/astro": "^0.46.5"
+  }
+}
